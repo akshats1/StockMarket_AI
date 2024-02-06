@@ -5,3 +5,5 @@ pandas==2.0.2
 scikit_learn==1.4.0
 streamlit==1.31.0
 yfinance==0.2.36
+tensorflow>=2.16.0
+keras>=3.0.0
