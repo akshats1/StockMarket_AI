@@ -30,7 +30,7 @@ https://stockmarketai-predict-akshat.onrender.com/
 
 ## Tech Stack
 
-**Client:** Python, Keras,Tensorflow,LSTM,yify,streamlit
+**Client:** Python, Keras,Tensorflow,LSTM,yifinance,streamlit
 
 **Server:** streamlit,render.com
 
