@@ -27,6 +27,9 @@ Prediction of stock price as per Our Model
 ## Demo
 
 https://stockmarketai-predict-akshat.onrender.com/
+Docker Demo:https://hub.docker.com/r/akshats063/shareprice
+      Docker pull request
+      docker pull akshats063/shareprice
 
 ## Tech Stack
 
