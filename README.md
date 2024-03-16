@@ -30,6 +30,21 @@ https://stockmarketai-predict-akshat.onrender.com/
 Docker Demo:https://hub.docker.com/r/akshats063/shareprice
       Docker pull request
       docker pull akshats063/shareprice
+## How to Run
+```bash
+conda create -n visa python=3.8 -y
+```
+```bash
+conda activate visa
+```
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python3 app.py
+
+```
 
 ## Tech Stack
 
